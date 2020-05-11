@@ -2,3 +2,16 @@ Hi, Welcome. This is For Git
 
 Git Clone is used to Clone the code for the first time - Only once
 Git Pull is used to get the latest code
+
+For Downloading git to Windows:
+https://git-scm.com/download/win
+
+Commands:
+$ git clone https://github.com/SiddharthRavirajan/MyFirstRepository.git
+$ cd MyFirstRepository/
+$ git pull
+$ cat test.txt
+
+Public : Visible to all public users but they can't edit.
+Private Repo: Need to provide authorisation.
+
