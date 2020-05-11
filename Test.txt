@@ -1,1 +1,4 @@
 Hi, Welcome. This is For Git
+
+Git Clone is used to Clone the code for the first time - Only once
+Git Pull is used to get the latest code
